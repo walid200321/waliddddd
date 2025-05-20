@@ -1,0 +1,35 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+  background: pink; 
+  color: rgb(180, 48, 96); 
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  margin: 40px;
+}
+
+h1 {
+  font-family: "Playwrite MX Guides", cursive;
+  text-decoration: underline;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: 'Playwrite MX Guides', sans-serif;
+  color: rgb(255, 105, 180); 
+  font-weight: 400;
+  font-size: 21px;
+  margin-top: 20px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: violet; 
+}
+
+.cafe {
+  width:600px;
+
+}
